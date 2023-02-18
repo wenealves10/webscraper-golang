@@ -1,6 +1,6 @@
-# Project Title
+# WebScraper Golang
 
-Project description here.
+The project uses Chromedp to build web scrapers and automate web navigation tasks in Go.
 
 ## Prerequisites
 
@@ -10,9 +10,9 @@ Project description here.
 ## Installation
 
 1. Clone the project repository.
-   `git clone https://github.com/your-username/project-name.git`
+   `git clone https://github.com/wenealves10/webscraper-golang.git`
 2. Navigate to the project directory.
-   `cd project-name`
+   `cd webscraper-golang`
 3. Install the Chromedp library using the following command:
    `go get github.com/chromedp/chromedp`
 
